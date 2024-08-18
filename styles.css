@@ -15,7 +15,7 @@ body {
   background: #1e1e1e; /* Dark background for body */
   color: #e0e0e0; /* Light text color for readability */
   display: flex;
-  min-height: 150vh;
+  min-height: none;
 }
 
 .container {
